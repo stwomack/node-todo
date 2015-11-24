@@ -1,9 +1,10 @@
 {
-  "name"         : "node-cfenv",
-  "version"      : "0.0.0",
-  "description"  : "Simple application.",
-  "main"         : "server.js",
-  "author"       : "Scotch",
-  "dependencies" : {
+  "name": "node-cfenv",
+  "version": "0.0.0",
+  "description": "Simple application.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "node-stringify": "0.0.18"
   }
 }
